@@ -7948,3 +7948,1241 @@ Node        : LAPTOP-T2907TUU
 Process     : java.exe <13516>
 Thread      : conflictResolver 18780
 Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693385026.431675800/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:31:15+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1313777806 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14424>
+Thread      : spliced 1936
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693449075.546834400/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:31:15+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14424>
+Thread      : spliced 1936
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693449075.548120600/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:31:15+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14424>
+Thread      : spliced 1936
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693449075.549209500/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T09:31:15+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14424>
+Thread      : ddsi2 6892
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693449075.585604000/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:31:15+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14424>
+Thread      : ddsi2 6892
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693449075.593614700/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:31:15+0700
+Description : The durability service can be identified by ID: 1313777806
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14424>
+Thread      : durability 18128
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693449075.883196600/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:31:23+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14424>
+Thread      : conflictResolver 8932
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693449083.517791000/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:32:29+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 772458193 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19124>
+Thread      : spliced 2680
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693449149.243939900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:32:29+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19124>
+Thread      : spliced 2680
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693449149.246768600/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:32:29+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19124>
+Thread      : spliced 2680
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693449149.247957100/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T09:32:29+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19124>
+Thread      : ddsi2 18164
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693449149.282015400/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:32:29+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19124>
+Thread      : ddsi2 18164
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693449149.291145800/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:32:29+0700
+Description : The durability service can be identified by ID: 772458193
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19124>
+Thread      : durability 3676
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693449149.800895200/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:32:37+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19124>
+Thread      : conflictResolver 18944
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693449157.613761200/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:33:01+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 465481381 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <11400>
+Thread      : spliced 11668
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693449181.194079800/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:33:01+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <11400>
+Thread      : spliced 11668
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693449181.195195100/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:33:01+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <11400>
+Thread      : spliced 11668
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693449181.196257600/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T09:33:01+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <11400>
+Thread      : ddsi2 12416
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693449181.234159900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:33:01+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <11400>
+Thread      : ddsi2 12416
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693449181.243007900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:33:01+0700
+Description : The durability service can be identified by ID: 465481381
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <11400>
+Thread      : durability 9804
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693449181.532996400/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T09:33:09+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <11400>
+Thread      : conflictResolver 14684
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693449189.366300300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:29:22+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1996993277 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8960>
+Thread      : spliced 14740
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693456162.178088100/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:29:22+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8960>
+Thread      : spliced 14740
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693456162.179685000/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:29:22+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8960>
+Thread      : spliced 14740
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693456162.180727400/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T11:29:22+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 2, vEthernet (WSL
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8960>
+Thread      : ddsi2 20296
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693456162.228918600/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:29:22+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8960>
+Thread      : ddsi2 20296
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693456162.238130900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:29:22+0700
+Description : The durability service can be identified by ID: 1996993277
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8960>
+Thread      : durability 21436
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693456162.623882400/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:29:51+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1676029076 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20588>
+Thread      : spliced 20172
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693456191.975427200/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:29:51+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20588>
+Thread      : spliced 20172
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693456191.976511900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:29:51+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20588>
+Thread      : spliced 20172
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693456191.977640600/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T11:29:52+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 2, vEthernet (WSL
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20588>
+Thread      : ddsi2 12960
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693456192.026140100/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:29:52+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20588>
+Thread      : ddsi2 12960
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693456192.035945000/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:29:52+0700
+Description : The durability service can be identified by ID: 1676029076
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20588>
+Thread      : durability 14012
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693456192.331318200/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:30:00+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20588>
+Thread      : conflictResolver 17092
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693456200.142273800/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:32:11+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 324998921 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20120>
+Thread      : spliced 6116
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693456331.223285100/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:32:11+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20120>
+Thread      : spliced 6116
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693456331.224787400/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:32:11+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20120>
+Thread      : spliced 6116
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693456331.225903800/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T11:32:11+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 2, vEthernet (WSL
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20120>
+Thread      : ddsi2 11452
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693456331.282293000/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:32:11+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20120>
+Thread      : ddsi2 11452
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693456331.294677100/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:32:11+0700
+Description : The durability service can be identified by ID: 324998921
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20120>
+Thread      : durability 19612
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693456331.592076000/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:32:19+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20120>
+Thread      : conflictResolver 2196
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693456339.407412700/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T11:38:20+0700
+Description : Missed heartbeat for node 260345507. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20120>
+Thread      : OSPL Garbage Collector 20888
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693456700.465166100/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:10:50+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 282660307 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19508>
+Thread      : spliced 20296
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693462250.031753800/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:10:50+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19508>
+Thread      : spliced 20296
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693462250.033166700/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:10:50+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19508>
+Thread      : spliced 20296
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693462250.034687000/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T13:10:50+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 2, vEthernet (WSL
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19508>
+Thread      : ddsi2 2092
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693462250.084401200/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:10:50+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19508>
+Thread      : ddsi2 2092
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693462250.093484300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:10:50+0700
+Description : The durability service can be identified by ID: 282660307
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19508>
+Thread      : durability 8640
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693462250.483842300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:10:58+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19508>
+Thread      : conflictResolver 19732
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693462258.231007300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:11:11+0700
+Description : Missed heartbeat for node 859314184. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19508>
+Thread      : OSPL Garbage Collector 20116
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693462271.786247000/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:14:07+0700
+Description : Missed heartbeat for node 1205580910. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19508>
+Thread      : OSPL Garbage Collector 20116
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693462447.255198200/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:15:08+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 514120086 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18292>
+Thread      : spliced 18008
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693462508.348105900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:15:08+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18292>
+Thread      : spliced 18008
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693462508.349216800/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:15:08+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18292>
+Thread      : spliced 18008
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693462508.350551300/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T13:15:08+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 2, vEthernet (WSL
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18292>
+Thread      : ddsi2 6332
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693462508.399774900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:15:08+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18292>
+Thread      : ddsi2 6332
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693462508.410495900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:15:08+0700
+Description : The durability service can be identified by ID: 514120086
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18292>
+Thread      : durability 7496
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693462508.690894700/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T13:15:10+0700
+Description : Detected Unmatching QoS Policy: 'Durability' for Topic <HelloWorldData_Msg12>.
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18292>
+Thread      : OSPL Kernel Manager 17712
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/374/779/1693462510.404626300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:15:16+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18292>
+Thread      : conflictResolver 18076
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693462516.521772100/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T13:15:35+0700
+Description : Detected Unmatching QoS Policy: 'Durability' for Topic <HelloWorldData_Msg12>.
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18292>
+Thread      : OSPL Kernel Manager 17712
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/374/779/1693462535.441935100/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:15:40+0700
+Description : Missed heartbeat for node 1409699588. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18292>
+Thread      : OSPL Garbage Collector 16200
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693462540.590339600/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:16:55+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 253878710 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18696>
+Thread      : spliced 18708
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693462615.673863500/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:16:55+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18696>
+Thread      : spliced 18708
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693462615.675313300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:16:55+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18696>
+Thread      : spliced 18708
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693462615.676564700/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T13:16:55+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 2, vEthernet (WSL
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18696>
+Thread      : ddsi2 20348
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693462615.722030000/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:16:55+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18696>
+Thread      : ddsi2 20348
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693462615.731472300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:16:56+0700
+Description : The durability service can be identified by ID: 253878710
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18696>
+Thread      : durability 19320
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693462616.020059600/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:17:06+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18696>
+Thread      : conflictResolver 3444
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693462626.103704600/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:17:20+0700
+Description : Missed heartbeat for node 1941653220. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18696>
+Thread      : OSPL Garbage Collector 19252
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693462640.024352300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:17:50+0700
+Description : Missed heartbeat for node 35089582. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18696>
+Thread      : OSPL Garbage Collector 19252
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693462670.929970300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:31:45+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 204811484 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10484>
+Thread      : spliced 5972
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693463505.291495100/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:31:45+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10484>
+Thread      : spliced 5972
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693463505.292546900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:31:45+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10484>
+Thread      : spliced 5972
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693463505.293571900/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T13:31:45+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 2, vEthernet (WSL
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10484>
+Thread      : ddsi2 8204
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693463505.339538900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:31:45+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10484>
+Thread      : ddsi2 8204
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693463505.348267600/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:31:45+0700
+Description : The durability service can be identified by ID: 204811484
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10484>
+Thread      : durability 9600
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693463505.645086500/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:31:53+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10484>
+Thread      : conflictResolver 2888
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693463513.444249600/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T13:32:05+0700
+Description : Missed heartbeat for node 304673332. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10484>
+Thread      : OSPL Garbage Collector 11828
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693463525.969729900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:22:16+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1315792872 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16244>
+Thread      : spliced 13392
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693466536.654273100/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:22:16+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16244>
+Thread      : spliced 13392
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693466536.655371400/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:22:16+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16244>
+Thread      : spliced 13392
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693466536.656492500/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T14:22:16+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 2, vEthernet (WSL
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16244>
+Thread      : ddsi2 14544
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693466536.704934300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:22:16+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16244>
+Thread      : ddsi2 14544
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693466536.714003200/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:22:17+0700
+Description : The durability service can be identified by ID: 1315792872
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16244>
+Thread      : durability 15848
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693466537.106701100/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:22:33+0700
+Description : Missed heartbeat for node 1970310222. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16244>
+Thread      : OSPL Garbage Collector 356
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693466553.872902200/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:23:00+0700
+Description : Missed heartbeat for node 784530018. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16244>
+Thread      : OSPL Garbage Collector 356
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693466580.918423900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:23:55+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1274473713 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10156>
+Thread      : spliced 18804
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693466635.090326900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:23:55+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10156>
+Thread      : spliced 18804
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693466635.091753400/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:23:55+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10156>
+Thread      : spliced 18804
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693466635.092866300/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T14:23:55+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 2, vEthernet (WSL
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10156>
+Thread      : ddsi2 3732
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693466635.141617700/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:23:55+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10156>
+Thread      : ddsi2 3732
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693466635.150733200/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:23:55+0700
+Description : The durability service can be identified by ID: 1274473713
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10156>
+Thread      : durability 11536
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693466635.449051300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:24:10+0700
+Description : Missed heartbeat for node 2120203465. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10156>
+Thread      : OSPL Garbage Collector 16012
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693466650.338537000/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:24:24+0700
+Description : Missed heartbeat for node 393832237. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10156>
+Thread      : OSPL Garbage Collector 16012
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693466664.512089700/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:24:37+0700
+Description : Missed heartbeat for node 1525081895. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10156>
+Thread      : OSPL Garbage Collector 16012
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693466677.371066900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:24:50+0700
+Description : Missed heartbeat for node 1380042416. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10156>
+Thread      : OSPL Garbage Collector 16012
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693466690.343241400/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:25:17+0700
+Description : Missed heartbeat for node 1268536193. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10156>
+Thread      : OSPL Garbage Collector 16012
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693466717.477360800/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:26:56+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1245095726 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20208>
+Thread      : spliced 20040
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693466816.037983800/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:26:56+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20208>
+Thread      : spliced 20040
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693466816.039377600/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:26:56+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20208>
+Thread      : spliced 20040
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693466816.040381000/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T14:26:56+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 2, vEthernet (WSL
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20208>
+Thread      : ddsi2 14252
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693466816.090176000/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:26:56+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20208>
+Thread      : ddsi2 14252
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693466816.097623500/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:26:56+0700
+Description : The durability service can be identified by ID: 1245095726
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20208>
+Thread      : durability 10380
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693466816.369864300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:27:04+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20208>
+Thread      : conflictResolver 17444
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693466824.017700300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:27:16+0700
+Description : Missed heartbeat for node 1743543894. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20208>
+Thread      : OSPL Garbage Collector 13060
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693466836.081981800/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:27:50+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1000790096 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15108>
+Thread      : spliced 13228
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693466870.118169400/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:27:50+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15108>
+Thread      : spliced 13228
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693466870.119177900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:27:50+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15108>
+Thread      : spliced 13228
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693466870.120310700/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T14:27:50+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 2, vEthernet (WSL
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15108>
+Thread      : ddsi2 6068
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693466870.169923400/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:27:50+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15108>
+Thread      : ddsi2 6068
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693466870.177990100/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:27:50+0700
+Description : The durability service can be identified by ID: 1000790096
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15108>
+Thread      : durability 6472
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693466870.556379100/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T14:27:52+0700
+Description : Detected Unmatching QoS Policy: 'Durability' for Topic <HelloWorldData_Msg12>.
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15108>
+Thread      : OSPL Kernel Manager 19204
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/374/779/1693466872.163420400/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:27:58+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15108>
+Thread      : conflictResolver 11836
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693466878.268644100/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T14:28:02+0700
+Description : Detected Unmatching QoS Policy: 'Durability' for Topic <HelloWorldData_Msg12>.
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15108>
+Thread      : OSPL Kernel Manager 19204
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/374/779/1693466882.938909900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:28:09+0700
+Description : Missed heartbeat for node 1659982197. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15108>
+Thread      : OSPL Garbage Collector 15768
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693466889.560368300/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:28:43+0700
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (1)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 2067688682 from [1,2147483647]
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10124>
+Thread      : spliced 15708
+Internals   : 6.9.210323OSS///The OpenSplice domain service/u_domain.c/785/0/1693466923.315377400/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:28:43+0700
+Description : Service cmsoap disabled
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10124>
+Thread      : spliced 15708
+Internals   : 6.9.210323OSS///OpenSplice domain service/sr_componentInfo.c/446/0/1693466923.316521500/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:28:43+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10124>
+Thread      : spliced 15708
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693466923.317865700/1
+========================================================================================
+Report      : WARNING
+Date        : 2023-08-31T14:28:43+0700
+Description : using network interface Wi-Fi (192.168.160.249) selected arbitrarily from: Wi-Fi, Local Area Connection* 2, vEthernet (WSL
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10124>
+Thread      : ddsi2 6972
+Internals   : 6.9.210323OSS///ddsi2/q_nwif.c/989/0/1693466923.370964000/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:28:43+0700
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10124>
+Thread      : ddsi2 6972
+Internals   : 6.9.210323OSS///v_serviceChangeState/v_service.c/266/0/1693466923.379299900/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:28:43+0700
+Description : The durability service can be identified by ID: 2067688682
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10124>
+Thread      : durability 9420
+Internals   : 6.9.210323OSS///DurabilityService/d_durability.c/554/0/1693466923.773310100/1
+========================================================================================
+Report      : INFO
+Date        : 2023-08-31T14:28:58+0700
+Description : Missed heartbeat for node 393909843. (DCPSPublication is complete)
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10124>
+Thread      : OSPL Garbage Collector 2344
+Internals   : 6.9.210323OSS///v_spliced/v_spliced.c/2062/769/1693466938.534345800/1

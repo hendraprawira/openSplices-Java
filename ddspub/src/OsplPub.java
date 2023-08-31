@@ -33,9 +33,9 @@ public class OsplPub extends Thread{
         PolicyFactory policyFactory = env.getSPI().getPolicyFactory();
 
         Reliability r = PolicyFactory.getPolicyFactory(env).Reliability()
-                .withReliable();
+                .withBestEffort();
         Durability d = PolicyFactory.getPolicyFactory(env).Durability()
-                .withPersistent();
+                .withTransient();
 
         TopicQos topicQos = p.getDefaultTopicQos().withPolicies(r,d);
         Collection<Class<? extends Status>> statuses = new HashSet<Class<? extends Status>>();
@@ -64,7 +64,7 @@ public class OsplPub extends Thread{
 
             try {
                 writer.write(msgSample, InstanceHandle.nilHandle(env));
-                System.out.println("| Publish message : " + msgSample.message +"\n");
+                System.out.println("| Publish Message : " + msgSample.message +"\n");
             } catch (TimeoutException e) {
                 e.printStackTrace();
             }

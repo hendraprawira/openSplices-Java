@@ -33,9 +33,9 @@ public class OsplSubs extends Thread {
         DomainParticipant p = dpf.createParticipant();
 
         Reliability r = PolicyFactory.getPolicyFactory(env).Reliability()
-                .withReliable();
+                .withBestEffort();
         Durability d = PolicyFactory.getPolicyFactory(env).Durability()
-                .withPersistent();
+                .withTransient();
 
         Collection<Class<? extends Status>> statuses = new HashSet<Class<? extends Status>>();
 
@@ -51,9 +51,10 @@ public class OsplSubs extends Thread {
         DataReaderQos drQos = sub.copyFromTopicQos(sub.getDefaultDataReaderQos(), topic.getQos());
 
         DataReader<Msg> reader = sub.createDataReader(topic, drQos);
-        Duration wait_timeout = Duration.newDuration(15, TimeUnit.SECONDS, env);
+        Duration wait_timeout = Duration.newDuration(30, TimeUnit.SECONDS, env);
         try {
             reader.waitForHistoricalData(wait_timeout);
+
         } catch (TimeoutException e) {
             System.out.println("Ended");
         }
@@ -66,7 +67,7 @@ public class OsplSubs extends Thread {
                 Sample<Msg> sample = samples.next();
                 Msg msg = sample.getData();
                 if (msg != null) {
-                    System.out.println(msg.message + "\n");
+                    System.out.println("| Received Message : "+msg.message + "\n");
                 }
             }
             try {
